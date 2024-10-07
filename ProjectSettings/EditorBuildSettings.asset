@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ResultadoReto.unity
+    guid: 798fcbe4867de604b89df33cdc81098d
+  - enabled: 1
+    path: Assets/Scenes/Reto1.unity
+    guid: 382363d9db5ae694d831637c8cbb1410
+  - enabled: 1
+    path: Assets/Scenes/Reto2.unity
+    guid: 49c62e448b34b3248ad99ff7777ac112
+  - enabled: 1
+    path: Assets/Scenes/Reto3.unity
+    guid: 3c02200b199c7b442aa02ca79d40e413
+  m_configObjects: {}

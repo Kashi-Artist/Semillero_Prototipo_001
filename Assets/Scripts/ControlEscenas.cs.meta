@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 672023a6009054b43b4487eb1dde1817
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - resultadoImagen: {instanceID: 0}
+  - trianguloSprite: {fileID: 7482667652216324306, guid: 819b4f829578d124e951d03533d48eae, type: 3}
+  - circuloSprite: {fileID: 21300000, guid: 6971af8fb601e1f43b61f84fad866341, type: 3}
+  - cuadradoSprite: {fileID: 7482667652216324306, guid: 37be7ed0b657e184b82873df0432f854, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
